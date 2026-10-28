@@ -41,15 +41,6 @@
 
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=xmitt7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmitt7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<!-- <img alt="Streak" src="https://streak-stats.demolab.com?user=xmitt7&theme=tokyonight&hide_border=true" /> -->
-
 ## 📫 Contato
 
 <div align="center">
