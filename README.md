@@ -52,8 +52,6 @@
 
 <br>
 
-<sub>Partes deste README são atualizadas automaticamente por GitHub Actions 🤖</sub>
-
 </div>
 
 <!-- Links do badge do LinkedIn (a logo está embutida em base64 porque o shields.io removeu a oficial) -->
