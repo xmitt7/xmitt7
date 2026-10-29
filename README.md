@@ -1,12 +1,3 @@
-<div align=center>
-
-[![Português](https://img.shields.io/badge/🇧🇷_Português-clique_aqui-009C3B?style=for-the-badge)](https://github.com/xmitt7/xmitt7/blob/main/README.pt-BR.md)
-[![English](https://img.shields.io/badge/🇺🇸_English-selected-3C3B6E?style=for-the-badge)](https://github.com/xmitt7/xmitt7/blob/main/README.md)
-
-</div>
-
-<br>
-
 <div align="center">
 
 <a href="https://github.com/xmitt7">
@@ -15,13 +6,13 @@
 
 </div>
 
-##  About me
+## About me
 
 - 🔭 Currently building a website for my capstone project (TCC) for a home that supports pregnant women in vulnerable situations, helping them during pregnancy and postpartum
 - 🌱 Right now I'm learning more about infrastructure and security, an area I've neglected a lot in my programming studies
 - 👯 Looking to become more professional in the field and contribute to the development of websites, apps, games, and anything else the field has to offer
 
-##  Technologies
+## Technologies
 
 <div align="center">
 
@@ -64,7 +55,7 @@
 
 </div>
 
-##  Languages
+## Languages
 
 <div align="center">
 
@@ -73,7 +64,7 @@
 
 </div>
 
-##  Contact
+## Contact
 
 <div align="center">
 
