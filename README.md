@@ -1,18 +1,27 @@
+<div align=center>
+
+[![Português](https://img.shields.io/badge/🇧🇷_Português-clique_aqui-009C3B?style=for-the-badge)](https://github.com/xmitt7/xmitt7/blob/main/README.pt-BR.md)
+[![English](https://img.shields.io/badge/🇺🇸_English-selected-3C3B6E?style=for-the-badge)](https://github.com/xmitt7/xmitt7/blob/main/README.md)
+
+</div>
+
+<br>
+
 <div align="center">
 
 <a href="https://github.com/xmitt7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o;Desenvolvedor+em+constru%C3%A7%C3%A3o;Aprendendo+algo+novo+todo+dia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Jo%C3%A3o;Developer+in+the+making;Learning+something+new+every+day" alt="Typing SVG" />
 </a>
 
 </div>
 
-## 👨‍💻 Sobre mim
+##  About me
 
-- 🔭 Atualmente trabalhando em um site para um lar que acolhe gestantes em vulnerabilidade e as ajuda na gravidez e no pós-parto também, para o meu TCC
-- 🌱 No momento, estou aprendendo mais sobre infraestrutura e segurança, pois é algo que deixei muito de lado no meu aprendizado de programação.
-- 👯 Procurando se profisionalisar cada vez mais na area e poder contribuir com o desenvolvimento de site, aplicativo, games tudo que a area proposionar 
+- 🔭 Currently building a website for my capstone project (TCC) for a home that supports pregnant women in vulnerable situations, helping them during pregnancy and postpartum
+- 🌱 Right now I'm learning more about infrastructure and security, an area I've neglected a lot in my programming studies
+- 👯 Looking to become more professional in the field and contribute to the development of websites, apps, games, and anything else the field has to offer
 
-## 🛠️ Tecnologias
+##  Technologies
 
 <div align="center">
 
@@ -55,20 +64,19 @@
 
 </div>
 
-## 🌎 Idiomas
+##  Languages
 
 <div align="center">
 
-![Português](https://img.shields.io/badge/🇧🇷_Português-Nativo-009C3B?style=for-the-badge)
-![Inglês](https://img.shields.io/badge/🇺🇸_Inglês-Intermediário-3C3B6E?style=for-the-badge)
+![Portuguese](https://img.shields.io/badge/🇧🇷_Portuguese-Native-009C3B?style=for-the-badge)
+![English](https://img.shields.io/badge/🇺🇸_English-Intermediate-3C3B6E?style=for-the-badge)
 
 </div>
 
-## 📫 Contato
+##  Contact
 
 <div align="center">
 
-<!-- Troque os links pelos seus -->
 [![Email](https://img.shields.io/badge/Email-joao.v.clemente@gmail.com-E11D48?style=for-the-badge&labelColor=24283B&logo=gmail&logoColor=white)](mailto:joao.v.clemente@gmail.com)
 [![LinkedIn][linkedin-badge]][linkedin]
 
